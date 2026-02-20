@@ -1,5 +1,8 @@
 # Project Sprint 5 
 
+Link para acessar a aplicação via Render.
+https://projeto-sprint-5-729w.onrender.com/
+
 Este projeto faz parte da Sprint 5 do curso, com foco em desenvolver habilidades práticas de engenharia de software aplicadas à análise de dados.
 
 O objetivo é:
